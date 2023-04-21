@@ -37,8 +37,9 @@ text-align: center;
 
 footer {
 
-  background-image: linear-gradient(white,#b1dce3,#86c7d1);
-    color: ;
+    background-image: linear-gradient(white,#b1dce3,#86c7d1);
+    
+    color: green;
 
    /* background:#b4dad9;*/
     text-align: center;
